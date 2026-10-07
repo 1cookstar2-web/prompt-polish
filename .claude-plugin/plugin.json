@@ -1,0 +1,13 @@
+{
+  "name": "prompt-polish",
+  "version": "1.0.0",
+  "description": "Claude Opus 5.5 fixes the spelling, punctuation and grammar of each prompt you type, then makes it clear and direct for Claude Code, before Claude sees it",
+  "author": {
+    "name": "James",
+    "url": "https://github.com/1cookstar2-web"
+  },
+  "homepage": "https://github.com/1cookstar2-web/prompt-polish",
+  "repository": "https://github.com/1cookstar2-web/prompt-polish",
+  "license": "MIT",
+  "keywords": ["prompt", "spelling", "grammar", "rewrite", "mod"]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "prompt-polish",
+  "owner": {
+    "name": "James",
+    "url": "https://github.com/1cookstar2-web"
+  },
+  "metadata": {
+    "description": "prompt-polish: a Claude Code mod that has Opus 5.5 fix and clarify each prompt you type"
+  },
+  "plugins": [
+    {
+      "name": "prompt-polish",
+      "source": "./",
+      "description": "Claude Opus 5.5 fixes the spelling, punctuation and grammar of each prompt you type, then makes it clear and direct for Claude Code",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}
